@@ -1,0 +1,16 @@
+type,id,name,98.5
+A,001,Front Door,36.5
+A,002,Back Door,12.4
+B,003,Entrance Motion,95.5
+B,004,Storage Motion,90.5
+B,005,Office Motion,56.9
+C,006,Flood Sensor,20.3
+D,007,North Windows,18.0
+D,008,East Windows,83.2
+D,009,South Windows,57.7
+D,010,West Windows,31.6
+E,011,Front Entrance Weight,97.7
+E,012,Back Entrance Weight,42.6
+E,013,Front Stairs Weight,94.2
+E,014,Emergency Stairs Weight,28.4
+F,015,CO2 Sensor,52.6

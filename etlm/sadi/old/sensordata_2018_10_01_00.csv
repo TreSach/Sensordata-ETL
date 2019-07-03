@@ -1,0 +1,16 @@
+type,id,name,battery charge
+A,001,Front Door,5.6
+A,002,Back Door,6.3
+B,003,Entrance Motion,4.2
+B,004,Storage Motion,1.4
+B,005,Office Motion,1.1
+C,006,Flood Sensor,4.1
+D,007,North Windows,5.0
+D,008,East Windows,2.0
+D,009,South Windows,19.4
+D,010,West Windows,11.1
+E,011,Front Entrance Weight,2.8
+E,012,Back Entrance Weight,13.0
+E,013,Front Stairs Weight,3.9
+E,014,Emergency Stairs Weight,4.7
+F,015,CO2 Sensor,0.2
